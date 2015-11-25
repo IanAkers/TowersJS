@@ -3,4 +3,5 @@
 
 module.exports = {
   Game: require("./game")
+  View: require("./hanoi-view");
 };
